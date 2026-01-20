@@ -1,0 +1,15 @@
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\bin\Debug\net8.0\PaymentProcessorDemo.exe
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\bin\Debug\net8.0\PaymentProcessorDemo.deps.json
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\bin\Debug\net8.0\PaymentProcessorDemo.runtimeconfig.json
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\bin\Debug\net8.0\PaymentProcessorDemo.dll
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\bin\Debug\net8.0\PaymentProcessorDemo.pdb
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.AssemblyInfoInputs.cache
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.AssemblyInfo.cs
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.csproj.CoreCompileInputs.cache
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.sourcelink.json
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.dll
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\refint\PaymentProcessorDemo.dll
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.pdb
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\PaymentProcessorDemo.genruntimeconfig.cache
+D:\ki_7\SWD392\PT_2\ProgressTest2-DecoratorPattern\PaymentProcessorDemo\obj\Debug\net8.0\ref\PaymentProcessorDemo.dll
